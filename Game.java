@@ -4,7 +4,6 @@ package asteroids;
 CLASS: Game
 DESCRIPTION: A painted canvas in its own window, updated every tenth second.
 USAGE: Extended by Asteroids.
-NOTE: You don't need to understand the details here, no fiddling neccessary.
 Original code by Dan Leyzberg and Art Simon
 */
 import java.awt.*;
